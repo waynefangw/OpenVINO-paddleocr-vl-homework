@@ -1,6 +1,8 @@
 # PaddleOCR-VL with OpenVINO Homework
 
-
+项目中的两个主要文件：
+paddleocr_vl.ipynb：基于 OpenVINO 的 PaddleOCR-VL 文档理解 Notebook，展示模型加载、转换与推理全过程。
+run_gradio.py:使用 Gradio 构建的轻量 Web 应用，支持上传图片并实时返回 OCR 识别结果。
 
 【GitHub ID】：https://github.com/waynefangw/OpenVINO-paddleocr-vl-homework
 
